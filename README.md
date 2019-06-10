@@ -5,7 +5,7 @@ My file also, contains my personal notes of the section the coding challenege wa
 Title of Course: The Complete JavaScript Course 2019: Build Real Projects!
 Instructor: Jonas Schmedtmann
 
-Topics covered in this section:
+Topics covered in this section (what my notes cover):
 - Inheritance
 - Prototype chain
 - Function Constructors
